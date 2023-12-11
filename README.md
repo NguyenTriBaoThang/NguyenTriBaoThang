@@ -45,5 +45,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+## 👋 Glad to see you here!
+<p align="center">Visitors</p>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NguyenTriBaoThang&icon=0&color=0"  />
+</div>
+
+<p align="justify">
+  I'm glad you found my GitHub profile!
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=NguyenTriBaoThang&icon=0&color=0)](https://visitcount.itsvg.in)
