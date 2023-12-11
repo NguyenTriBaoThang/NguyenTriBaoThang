@@ -54,5 +54,3 @@
 <p align="justify">
   I'm glad you found my GitHub profile!
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=NguyenTriBaoThang&icon=0&color=0)](https://visitcount.itsvg.in)
