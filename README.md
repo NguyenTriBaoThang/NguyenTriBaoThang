@@ -26,7 +26,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-  <div>
+  <div align="left">
     <a href="https://facebook.com/https://www.facebook.com/bao.thangn/">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
     </a>
@@ -38,7 +38,7 @@
     </a>
   </div>
 
-  <div>
+  <div align="right">
     <img loading="lazy" src="https://i.pinimg.com/originals/55/91/4f/55914f56b4bc756f581df93f313e2076.gif" height="150" alt="quby" />
   </div>
 
