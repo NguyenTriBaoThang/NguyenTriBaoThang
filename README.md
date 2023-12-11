@@ -1,3 +1,20 @@
+##👋 Hello!!
+
+<p align="justify">
+✏ I am Nguyễn Tri Bão Thắng, a skilled Developer hailing from tech community of Vietnam.
+</p>
+
+<p align="justify">
+🚀 My expertise lies in pivotal domains such as Databases, Server-side technology, and DevOps, where I thrive in creating robust and efficient solutions.
+</p>
+
+<p align="justify">
+💻 You can delve into the depths of my coding journey on GitHub, where I maintain an active profile showcasing a diverse range of projects. Feel free to explore the innovative solutions and coding marvels I've crafted over time.
+</p>
+
+<p align="justify">
+🌐 I possess a profound understanding of various subjects, encompassing Databases, C/C++, and .NET Core. Whether you're seeking insights, have inquiries, or need assistance, I'm here to help. Don't hesitate to reach out and let's embark on a collaborative journey towards technological excellence!
+</p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bao.thangn/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tieuhacsaito/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@tieuhacsaito) 
