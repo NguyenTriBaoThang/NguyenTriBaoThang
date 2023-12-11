@@ -24,7 +24,7 @@
 
 ## 🌐 Socials
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex;">
 
   <div align="left">
     <a href="https://facebook.com/https://www.facebook.com/bao.thangn/">
