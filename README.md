@@ -23,10 +23,17 @@
 </div>
 
 ## 🌐 Socials
+<div align="center">
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bao.thangn/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tieuhacsaito/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@tieuhacsaito) 
 
-## 🏆GitHub Trophies
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  
 ![](https://github-trophies.vercel.app/?username=NguyenTriBaoThang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ## 💻 Tech Stack
 <div align="center">
