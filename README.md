@@ -1,4 +1,4 @@
-##👋 Hello!!
+## 👋 Hello!!
 
 <p align="justify">
 ✏ I am Nguyễn Tri Bão Thắng, a skilled Developer hailing from tech community of Vietnam.
