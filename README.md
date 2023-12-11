@@ -59,7 +59,7 @@
 ## 👋 Glad to see you here!
 <p align="center">Visitors</p>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NguyenTriBaoThang&icon=0&color=0"  />
+  <img src="https://profile-counter.glitch.me/NguyenTriBaoThang/count.svg?"  />
 </div>
 
 <p align="justify">
