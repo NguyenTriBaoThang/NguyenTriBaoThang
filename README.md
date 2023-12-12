@@ -20,8 +20,7 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center" style="flex">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=NguyenTriBaoThang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="github stats"  />
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTriBaoThang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=NguyenTriBaoThang&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="github stats"  /> <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTriBaoThang&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  /> <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTriBaoThang&theme=yeblu&hide_border=false" height="150" alt="github herokuapp"  />
 </div>
 
 ### 🌐 Socials
