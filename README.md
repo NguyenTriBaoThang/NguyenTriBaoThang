@@ -16,10 +16,14 @@
 🌐 I possess a profound understanding of various subjects, encompassing Databases, C/C++, and .NET Core. Whether you're seeking insights, have inquiries, or need assistance, I'm here to help. Don't hesitate to reach out and let's embark on a collaborative journey towards technological excellence!
 </p>
 
-## 📊 GitHub Stats :
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=NguyenTriBaoThang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="github stats"  />
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTriBaoThang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+
+  [<img src="https://github-readme-stats.vercel.app/api?username=NguyenTriBaoThang&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=NguyenTriBaoThang)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTriBaoThang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTriBaoThang)
 </div>
 
 ## 🌐 Socials
