@@ -23,15 +23,6 @@
 </div>
 
 ## 🌐 Socials
-
-###
-
-<div align="right">
-  <img loading="lazy" src="https://i.pinimg.com/originals/55/91/4f/55914f56b4bc756f581df93f313e2076.gif" height="150" alt="quby" />
-</div>
-
-###
-
 <div align="left">
   <a href="https://facebook.com/https://www.facebook.com/bao.thangn/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
@@ -43,11 +34,13 @@
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
   </a>
 </div>
+<div align="right">
+  <img loading="lazy" src="https://i.pinimg.com/originals/55/91/4f/55914f56b4bc756f581df93f313e2076.gif" height="150" alt="quby" />
+</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  
-![](https://github-trophies.vercel.app/?username=NguyenTriBaoThang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <img loading="lazy" src="https://github-trophies.vercel.app/?username=NguyenTriBaoThang&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 ## 💻 Tech Stack
